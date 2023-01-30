@@ -12,4 +12,9 @@ body{
 #cabecera{
     color: deeppink;
     text-align: center;
+    background-color: black;
+    max-width: 60%;
+    margin: 0 auto;
+    padding: 1rem;
+    box-sizing:border-box;
 }
